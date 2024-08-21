@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "fac0",
+      "firstName": "nissii",
+      "lastName": "nissrina",
+      "address": "nis@gmail.com",
+      "email": "abc@gmail.com",
+      "telephone": "0600298034",
+      "ville": "casablanca"
+    },
+    {
+      "id": "928c",
+      "firstName": ",fjzjfn",
+      "lastName": "fnzjenfj",
+      "address": "jfejnfjnerjrn",
+      "email": "hamza@gmail.com",
+      "telephone": "0663011100",
+      "ville": "casablanca"
+    },
+    {
+      "id": "99aa",
+      "firstName": "Hamza",
+      "lastName": "El Kanbi",
+      "address": "d,ejdnzfjnezfjn",
+      "email": "hamza@gmail.com",
+      "telephone": "0663011100",
+      "ville": "casablanca"
+    }
+  ]
+}
